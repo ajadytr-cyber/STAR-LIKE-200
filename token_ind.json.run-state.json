@@ -1,11 +1,11 @@
 {
   "phase": "first-pass",
-  "cursor": 160,
+  "cursor": 180,
   "retryCursor": 0,
   "retryTotal": 0,
   "total": 223,
-  "success": 160,
-  "fail": 0,
+  "success": 162,
+  "fail": 18,
   "results": [
     {
       "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNTA2NzUzODk3MCwibmlja25hbWUiOiJZaUpxZEhCekpvSGppSWJuMElhNGl2UFYyK1BSIiwibm90aV9yZWdpb24iOiJJTkQiLCJsb2NrX3JlZ2lvbiI6IklORCIsImV4dGVybmFsX2lkIjoiOWJhNDZkYjlhZTY1NTc1NWZiYjdhNDhhOWYxOGVlNmMiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTIwLjEiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiRlIiLCJleHRlcm5hbF91aWQiOjQ2NDE3MDEyNDYsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzczNTQ1OTYzLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3Nzk4MzM4MjN9.WHzSeC9WG4EED0WjHWxBURwQocO0W0e-uzzp650vNtM"
@@ -486,9 +486,178 @@
     },
     {
       "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNTAxMDE0MDY0OCwibmlja25hbWUiOiJZaUpxZEhCekpvSGppSWJuMFlhNGd0UG5qWURsM0E9PSIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6ImY5ZDRmNTUyZjNhNDY4OTk3YzEwYjY3NmU4NTJiNzhmIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEyMC4xIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IktSIiwiZXh0ZXJuYWxfdWlkIjo0NjIyOTIyODA5LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MzExMjA3NywiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzc5ODM0MDA3fQ.g62J2Zu9W0akG5QhY08sxxGCq-URwWIGkboAmPwp7IA"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNTAxMDE0MDI2Miwibmlja25hbWUiOiJZaUpxZEhCekpvSGpnS2JmcHRmYnM0YUV1TlE9Iiwibm90aV9yZWdpb24iOiJJTkQiLCJsb2NrX3JlZ2lvbiI6IklORCIsImV4dGVybmFsX2lkIjoiMjAzOTk0YWJjMjJlZDMyMDllMTQyNTg5N2UxYmFlYWMiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTIwLjEiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiS1IiLCJleHRlcm5hbF91aWQiOjQ2MjI5MjI4MjcsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzczMTEyMDc5LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3Nzk4MzQwMDl9.sd-HE3RCMyl3LDlt5KMNosDYnwTgnlVTkr-R9fbcrT8"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNTAxMDE0MTM3Nywibmlja25hbWUiOiJZaUpxZEhCekpvSGpqWWJuM0lhNGd2UGYyK1BVIiwibm90aV9yZWdpb24iOiJJTkQiLCJsb2NrX3JlZ2lvbiI6IklORCIsImV4dGVybmFsX2lkIjoiMmY1NjY4ZmRlZTA3NzI5OWZkMDM0MzNlMjVkYWU1NzkiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTIwLjEiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiS1IiLCJleHRlcm5hbF91aWQiOjQ2MjI5MjM0NzgsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzczMTEyMDgxLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3Nzk4MzQwMDl9.13KqsmClRRMJxBdRcQcPwW4ziXP3p0JmQ869tTUInx0"
     }
   ],
-  "failedAccounts": [],
+  "failedAccounts": [
+    {
+      "uid": 4622923491,
+      "name": "SG_LIKE⁵³⁷⁹⁶",
+      "region": "IND",
+      "password": "SRAR_AXUQJ_BY_STAR_GMR_4XK0Z",
+      "thread_id": 92,
+      "account_id": "15010141436",
+      "date_created": "2026-03-10 08:38:01"
+    },
+    {
+      "uid": 4622923484,
+      "name": "SG_LIKE⁷¹³⁰¹",
+      "region": "IND",
+      "password": "SRAR_1KTFG_BY_STAR_GMR_ZMI8Z",
+      "thread_id": 17,
+      "account_id": "15010141412",
+      "date_created": "2026-03-10 08:38:01"
+    },
+    {
+      "uid": 4622923482,
+      "name": "SG_LIKE⁵⁵⁷⁹⁴",
+      "region": "IND",
+      "password": "SRAR_2IUGB_BY_STAR_GMR_4M8SB",
+      "thread_id": 53,
+      "account_id": "15010141454",
+      "date_created": "2026-03-10 08:38:01"
+    },
+    {
+      "uid": 4622923499,
+      "name": "SG_LIKE³²⁵²⁷",
+      "region": "IND",
+      "password": "SRAR_ZGT4R_BY_STAR_GMR_AEQUD",
+      "thread_id": 66,
+      "account_id": "15010141455",
+      "date_created": "2026-03-10 08:38:01"
+    },
+    {
+      "uid": 4622923518,
+      "name": "SG_LIKE⁸¹⁷⁶⁴",
+      "region": "IND",
+      "password": "SRAR_YH80P_BY_STAR_GMR_U4RCS",
+      "thread_id": 88,
+      "account_id": "15010141483",
+      "date_created": "2026-03-10 08:38:01"
+    },
+    {
+      "uid": 4622923490,
+      "name": "SG_LIKE⁶³⁹⁵⁷",
+      "region": "IND",
+      "password": "SRAR_TB7FK_BY_STAR_GMR_KTL6D",
+      "thread_id": 25,
+      "account_id": "15010141475",
+      "date_created": "2026-03-10 08:38:02"
+    },
+    {
+      "uid": 4622923489,
+      "name": "SG_LIKE⁰⁵⁵³⁹",
+      "region": "IND",
+      "password": "SRAR_9GIJM_BY_STAR_GMR_B268Y",
+      "thread_id": 35,
+      "account_id": "15010141445",
+      "date_created": "2026-03-10 08:38:02"
+    },
+    {
+      "uid": 4622923506,
+      "name": "SG_LIKE⁹⁵⁷⁰²",
+      "region": "IND",
+      "password": "SRAR_XQAVQ_BY_STAR_GMR_STESY",
+      "thread_id": 55,
+      "account_id": "15010141479",
+      "date_created": "2026-03-10 08:38:02"
+    },
+    {
+      "uid": 4622923481,
+      "name": "SG_LIKE²²⁸⁹²",
+      "region": "IND",
+      "password": "SRAR_JPWYG_BY_STAR_GMR_6GMUJ",
+      "thread_id": 41,
+      "account_id": "15010141491",
+      "date_created": "2026-03-10 08:38:02"
+    },
+    {
+      "uid": 4622923509,
+      "name": "SG_LIKE⁵¹⁶⁸²",
+      "region": "IND",
+      "password": "SRAR_0KFCJ_BY_STAR_GMR_HCEDV",
+      "thread_id": 82,
+      "account_id": "15010141504",
+      "date_created": "2026-03-10 08:38:02"
+    },
+    {
+      "uid": 4622923503,
+      "name": "SG_LIKE⁹⁴⁸¹⁷",
+      "region": "IND",
+      "password": "SRAR_LE773_BY_STAR_GMR_R01YL",
+      "thread_id": 5,
+      "account_id": "15010141495",
+      "date_created": "2026-03-10 08:38:02"
+    },
+    {
+      "uid": 4622923515,
+      "name": "SG_LIKE⁴⁸⁴⁵¹",
+      "region": "IND",
+      "password": "SRAR_2ZDFN_BY_STAR_GMR_81ATW",
+      "thread_id": 50,
+      "account_id": "15010141511",
+      "date_created": "2026-03-10 08:38:02"
+    },
+    {
+      "uid": 4622923528,
+      "name": "SG_LIKE²¹³⁷⁴",
+      "region": "IND",
+      "password": "SRAR_IKGRZ_BY_STAR_GMR_A3NEY",
+      "thread_id": 34,
+      "account_id": "15010141505",
+      "date_created": "2026-03-10 08:38:02"
+    },
+    {
+      "uid": 4622923511,
+      "name": "SG_LIKE²⁸³⁸²",
+      "region": "IND",
+      "password": "SRAR_DYSMC_BY_STAR_GMR_5Q0FL",
+      "thread_id": 84,
+      "account_id": "15010141509",
+      "date_created": "2026-03-10 08:38:02"
+    },
+    {
+      "uid": 4622923487,
+      "name": "SG_LIKE⁶⁴⁴²⁸",
+      "region": "IND",
+      "password": "SRAR_LZ7ZK_BY_STAR_GMR_S008Y",
+      "thread_id": 52,
+      "account_id": "15010141545",
+      "date_created": "2026-03-10 08:38:02"
+    },
+    {
+      "uid": 4622923504,
+      "name": "SG_LIKE⁷⁷⁵⁴¹",
+      "region": "IND",
+      "password": "SRAR_AKVCT_BY_STAR_GMR_KHFAQ",
+      "thread_id": 22,
+      "account_id": "15010141541",
+      "date_created": "2026-03-10 08:38:03"
+    },
+    {
+      "uid": 4622923505,
+      "name": "SG_LIKE⁸⁹³⁷⁴",
+      "region": "IND",
+      "password": "SRAR_BRXBH_BY_STAR_GMR_CZ58I",
+      "thread_id": 67,
+      "account_id": "15010141537",
+      "date_created": "2026-03-10 08:38:03"
+    },
+    {
+      "uid": 4622923513,
+      "name": "SG_LIKE¹⁰⁵⁵⁴",
+      "region": "IND",
+      "password": "SRAR_QIT7R_BY_STAR_GMR_7Q12Y",
+      "thread_id": 21,
+      "account_id": "15010141520",
+      "date_created": "2026-03-10 08:38:03"
+    }
+  ],
   "startedAt": "2026-05-26T14:17:00.481Z",
-  "updatedAt": "2026-05-26T14:20:07.625Z"
+  "updatedAt": "2026-05-26T14:20:16.074Z"
 }
