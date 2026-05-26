@@ -1,0 +1,87 @@
+{
+  "phase": "first-pass",
+  "cursor": 8,
+  "retryCursor": 0,
+  "retryTotal": 0,
+  "total": 8,
+  "success": 0,
+  "fail": 8,
+  "results": [],
+  "retryAccounts": [],
+  "failedAccounts": [
+    {
+      "uid": 4730884953,
+      "name": "SG_LIKE³²⁵²²",
+      "region": "IND",
+      "password": "SGSFGFLKS4ST4RGMRL0V3LQIFY",
+      "thread_id": 18,
+      "account_id": "15438061244",
+      "date_created": "2026-04-18 18:41:05"
+    },
+    {
+      "uid": 4730884958,
+      "name": "SG_LIKE³¹⁸⁰²",
+      "region": "IND",
+      "password": "SGSFGFLKS4ST4RGMRL0V30DLAU",
+      "thread_id": 26,
+      "account_id": "15438061248",
+      "date_created": "2026-04-18 18:41:06"
+    },
+    {
+      "uid": 4730884957,
+      "name": "SG_LIKE⁷²⁵¹³",
+      "region": "IND",
+      "password": "SGSFGFLKS4ST4RGMRL0V38UQJL",
+      "thread_id": 27,
+      "account_id": "15438061274",
+      "date_created": "2026-04-18 18:41:06"
+    },
+    {
+      "uid": 4730884934,
+      "name": "SG_LIKE⁹¹⁷⁰⁶",
+      "region": "IND",
+      "password": "SGSFGFLKS4ST4RGMRL0V3SAA9F",
+      "thread_id": 20,
+      "account_id": "15438061272",
+      "date_created": "2026-04-18 18:41:06"
+    },
+    {
+      "uid": 4730884946,
+      "name": "SG_LIKE³⁰³⁸¹",
+      "region": "IND",
+      "password": "SGSFGFLKS4ST4RGMRL0V3BBH02",
+      "thread_id": 2,
+      "account_id": "15438061257",
+      "date_created": "2026-04-18 18:41:06"
+    },
+    {
+      "uid": 4730887927,
+      "name": "SG_LIKE⁸⁰³⁷²",
+      "region": "IND",
+      "password": "SGSFGFLKS4ST4RGMRL0V3U7OTI",
+      "thread_id": 26,
+      "account_id": "15438070032",
+      "date_created": "2026-04-18 18:42:02"
+    },
+    {
+      "uid": 4730887926,
+      "name": "SG_LIKE⁵⁶⁰⁵⁹",
+      "region": "IND",
+      "password": "SGSFGFLKS4ST4RGMRL0V3YMMUL",
+      "thread_id": 27,
+      "account_id": "15438070033",
+      "date_created": "2026-04-18 18:42:02"
+    },
+    {
+      "uid": 4730887931,
+      "name": "SG_LIKE⁹⁷³⁷⁴",
+      "region": "IND",
+      "password": "SGSFGFLKS4ST4RGMRL0V3LD6S6",
+      "thread_id": 15,
+      "account_id": "15438070231",
+      "date_created": "2026-04-18 18:42:04"
+    }
+  ],
+  "startedAt": "2026-05-26T22:47:02.574Z",
+  "updatedAt": "2026-05-26T22:47:11.958Z"
+}
