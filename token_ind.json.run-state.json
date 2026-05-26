@@ -1,11 +1,11 @@
 {
   "phase": "first-pass",
-  "cursor": 20,
+  "cursor": 40,
   "retryCursor": 0,
   "retryTotal": 0,
   "total": 2599,
   "success": 0,
-  "fail": 20,
+  "fail": 40,
   "results": [],
   "failedAccounts": [
     {
@@ -187,8 +187,188 @@
       "password": "RECYCLE_XAAKR_BY_SPIDEERIO_GAMING_E74EO",
       "account_id": "14351267987",
       "date_created": "2026-05-22 10:38:43"
+    },
+    {
+      "uid": 4388772788,
+      "name": "RECYCLE¹⁰⁶⁰⁹",
+      "Level": 31,
+      "region": "IND",
+      "password": "RECYCLE_P0YCI_BY_SPIDEERIO_GAMING_HV262",
+      "account_id": "14351267908",
+      "date_created": "2026-05-22 10:38:44"
+    },
+    {
+      "uid": 4388772106,
+      "name": "RECYCLE⁶⁶⁶⁹⁰",
+      "Level": 31,
+      "region": "IND",
+      "password": "RECYCLE_7KOW4_BY_SPIDEERIO_GAMING_6WS1D",
+      "account_id": "14351266377",
+      "date_created": "2026-05-22 10:38:44"
+    },
+    {
+      "uid": 4388773341,
+      "name": "RECYCLE³⁷⁸⁰⁴",
+      "Level": 31,
+      "region": "IND",
+      "password": "RECYCLE_7HGB9_BY_SPIDEERIO_GAMING_NTGFL",
+      "account_id": "14351269444",
+      "date_created": "2026-05-22 10:38:45"
+    },
+    {
+      "uid": 4388773329,
+      "name": "RECYCLE⁷⁰⁷⁶⁹",
+      "Level": 31,
+      "region": "IND",
+      "password": "RECYCLE_SQFPW_BY_SPIDEERIO_GAMING_YJ591",
+      "account_id": "14351269480",
+      "date_created": "2026-05-22 10:38:45"
+    },
+    {
+      "uid": 4388789650,
+      "name": "RECYCLE⁴⁵⁸⁰⁵",
+      "Level": 31,
+      "region": "IND",
+      "password": "RECYCLE_TPKIG_BY_SPIDEERIO_GAMING_CNTUH",
+      "account_id": "14351324844",
+      "date_created": "2026-05-22 10:38:46"
+    },
+    {
+      "uid": 4388772911,
+      "name": "RECYCLE⁶⁰⁸⁴⁵",
+      "Level": 31,
+      "region": "IND",
+      "password": "RECYCLE_Q9L69_BY_SPIDEERIO_GAMING_KW4EG",
+      "account_id": "14351268239",
+      "date_created": "2026-05-22 10:38:45"
+    },
+    {
+      "uid": 4388789714,
+      "name": "RECYCLE⁵³⁰⁴⁰",
+      "Level": 31,
+      "region": "IND",
+      "password": "RECYCLE_ACFK0_BY_SPIDEERIO_GAMING_38EWA",
+      "account_id": "14351325272",
+      "date_created": "2026-05-22 10:38:46"
+    },
+    {
+      "uid": 4388773515,
+      "name": "RECYCLE⁹⁵⁵³⁶",
+      "Level": 31,
+      "region": "IND",
+      "password": "RECYCLE_GGFML_BY_SPIDEERIO_GAMING_H2BIC",
+      "account_id": "14351270288",
+      "date_created": "2026-05-22 10:38:46"
+    },
+    {
+      "uid": 4388789562,
+      "name": "RECYCLE¹⁹⁶⁰⁶",
+      "Level": 31,
+      "region": "IND",
+      "password": "RECYCLE_VY465_BY_SPIDEERIO_GAMING_OZNGS",
+      "account_id": "14351324288",
+      "date_created": "2026-05-22 10:38:46"
+    },
+    {
+      "uid": 4356982814,
+      "name": "ABHI⁴³⁶⁸⁴",
+      "Level": 31,
+      "region": "IND",
+      "password": "ABHI_25ED6_BY_SPIDEERIO_GAMING_NYGCK",
+      "account_id": "14192376526",
+      "date_created": "2026-05-22 10:38:46"
+    },
+    {
+      "uid": 4356983044,
+      "name": "ABHI⁶³¹³¹",
+      "Level": 31,
+      "region": "IND",
+      "password": "ABHI_4YP7H_BY_SPIDEERIO_GAMING_2A96A",
+      "account_id": "14192377486",
+      "date_created": "2026-05-22 10:38:46"
+    },
+    {
+      "uid": 4338696768,
+      "name": "RECYCLE⁴⁸²⁷⁵",
+      "Level": 31,
+      "region": "IND",
+      "password": "RECYCLE_2SF8N_BY_SPIDEERIO_GAMING_NQOQ8",
+      "account_id": "14105912009",
+      "date_created": "2026-05-22 10:38:46"
+    },
+    {
+      "uid": 4354987473,
+      "name": "ABHISHE⁶³⁷⁴⁴",
+      "Level": 31,
+      "region": "IND",
+      "password": "ABHISHEK_0V51S_BY_SPIDEERIO_GAMING_XP2EP",
+      "account_id": "14184187089",
+      "date_created": "2026-05-22 10:38:47"
+    },
+    {
+      "uid": 4356982916,
+      "name": "ABHI⁸⁹³⁰⁶",
+      "Level": 31,
+      "region": "IND",
+      "password": "ABHI_8OLYM_BY_SPIDEERIO_GAMING_W5AFS",
+      "account_id": "14192377030",
+      "date_created": "2026-05-22 10:38:46"
+    },
+    {
+      "uid": 4338696769,
+      "name": "RECYCLE⁴⁵⁰⁸⁵",
+      "Level": 31,
+      "region": "IND",
+      "password": "RECYCLE_NSH1U_BY_SPIDEERIO_GAMING_VTDEY",
+      "account_id": "14105912098",
+      "date_created": "2026-05-22 10:38:47"
+    },
+    {
+      "uid": 4354986675,
+      "name": "ABHISHE²⁴³⁹⁴",
+      "Level": 31,
+      "region": "IND",
+      "password": "ABHISHEK_P69P5_BY_SPIDEERIO_GAMING_ILHL6",
+      "account_id": "14184183813",
+      "date_created": "2026-05-22 10:38:47"
+    },
+    {
+      "uid": 4354986557,
+      "name": "ABHISHE⁸⁵⁵⁵⁹",
+      "Level": 31,
+      "region": "IND",
+      "password": "ABHISHEK_2J536_BY_SPIDEERIO_GAMING_C9SNR",
+      "account_id": "14184183337",
+      "date_created": "2026-05-22 10:38:48"
+    },
+    {
+      "uid": 4338696767,
+      "name": "RECYCLE¹³⁴⁷¹",
+      "Level": 31,
+      "region": "IND",
+      "password": "RECYCLE_MS9P2_BY_SPIDEERIO_GAMING_NWPIS",
+      "account_id": "14105912134",
+      "date_created": "2026-05-22 10:38:48"
+    },
+    {
+      "uid": 4354986699,
+      "name": "ABHISHE⁹²⁹¹³",
+      "Level": 31,
+      "region": "IND",
+      "password": "ABHISHEK_5A6SC_BY_SPIDEERIO_GAMING_H6PDF",
+      "account_id": "14184183832",
+      "date_created": "2026-05-22 10:38:48"
+    },
+    {
+      "uid": 4354987300,
+      "name": "ABHISHE⁷⁹⁷²⁷",
+      "Level": 31,
+      "region": "IND",
+      "password": "ABHISHEK_OFLNQ_BY_SPIDEERIO_GAMING_BVHLR",
+      "account_id": "14184186725",
+      "date_created": "2026-05-22 10:38:48"
     }
   ],
   "startedAt": "2026-05-26T07:42:36.837Z",
-  "updatedAt": "2026-05-26T07:42:44.705Z"
+  "updatedAt": "2026-05-26T07:42:52.365Z"
 }
